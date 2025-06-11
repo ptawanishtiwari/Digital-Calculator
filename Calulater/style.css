@@ -1,0 +1,34 @@
+body{
+	background-color:blueviolet;
+	text-align:center;
+
+}
+.container{
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	border: 5px;
+	margin: auto;
+	padding: 10px;
+}
+button{
+	width: 50px;
+	height: 40px;
+	margin:5px;
+	margin-top: 10px;
+	font-size: 25px;
+	border: 5px;
+	border-color: darkblue ;
+	padding: 3px;
+	cursor: pointer;
+}
+
+#display{
+	width: 250px;
+	height: 20px;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid rgb(22, 126, 237);
+	 text-align: right;
+	     font-size: 20px;
+}
